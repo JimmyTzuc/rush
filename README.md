@@ -21,7 +21,7 @@ Este es un programa intensivo de aprendizaje de programación desde cero, diseñ
 
 - **Proyectos**: Carpeta que contiene descripciones detalladas de los proyectos del Boot Camp, incluyendo requisitos, criterios de evaluación y ejemplos de soluciones. Los participantes pueden crear ramas (branches) para sus proyectos y hacer pull requests para compartir sus resultados.
 
-- **Sesiones**: Accede a la [Wiki del Boot Camp](https://github.com/JimmyTzuc/Rush-Boot-Camp/wiki) para ver el contenido teórico, ejemplos de código y enlaces relevantes para cada sesión del Boot Camp.
+- **Sesiones**: Accede a la [Wiki del Boot Camp](https://github.com/JimmyTzuc/rush/wiki) para ver el contenido teórico, ejemplos de código y enlaces relevantes para cada sesión del Boot Camp.
 
 ## Contribuciones
 
